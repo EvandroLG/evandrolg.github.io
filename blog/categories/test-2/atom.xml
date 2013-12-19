@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Evandro's Blog]]></title>
-  <link href="http://EvandroLG.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Test-2 | Evandro's Blog]]></title>
+  <link href="http://EvandroLG.github.io/blog/categories/test-2/atom.xml" rel="self"/>
   <link href="http://EvandroLG.github.io/"/>
   <updated>2013-12-19T08:46:30-02:00</updated>
   <id>http://EvandroLG.github.io/</id>
